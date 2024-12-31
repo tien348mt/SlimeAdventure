@@ -1,0 +1,513 @@
+
+73
+
+frame1
+image data/slimemove1.png
+x 15
+y 45
+w 30
+h 30
+
+frame2
+image data/slimemove1.png
+x 49
+y 45
+w 30
+h 30
+
+frame3
+image data/slimemove1.png
+x 81
+y 45
+w 30
+h 30
+
+frame4
+image data/slimemove1.png
+x 111
+y 45
+w 30
+h 30
+
+frame5
+image data/slimemove1.png
+x 145
+y 45
+w 30
+h 30
+
+frame6
+image data/slimemove1.png
+x 176
+y 45
+w 30
+h 30
+
+frame7
+image data/slimemove1.png
+x 208
+y 45
+w 30
+h 30
+
+frame8
+image data/slimemove1.png
+x 240
+y 45
+w 30
+h 30
+
+frame9
+image data/slimemove1.png
+x 275
+y 45
+w 30
+h 30
+
+frame10
+image data/slimemove1.png
+x 307
+y 45
+w 30
+h 30
+
+frame11
+image data/slimemove1.png
+x 338
+y 45
+w 30
+h 30
+
+frame12
+image data/slimemove1.png
+x 369
+y 45
+w 30
+h 30
+
+frame13
+image data/slimemove1.png
+x 401
+y 45
+w 30
+h 30
+
+frame14
+image data/slimemove1.png
+x 433
+y 45
+w 30
+h 30
+
+frame15
+image data/slimemove1.png
+x 464
+y 45
+w 30
+h 30
+
+frame16
+image data/slimemove1.png
+x 496
+y 45
+w 30
+h 30
+
+frame17
+image data/slimemove1.png
+x 16
+y 85
+w 30
+h 30
+
+frame18
+image data/slimemove1.png
+x 47
+y 85
+w 30
+h 30
+
+frame19
+image data/slimemove1.png
+x 79
+y 85
+w 30
+h 30
+
+frame20
+image data/slimemove1.png
+x 112
+y 85
+w 30
+h 30
+
+frame21
+image data/slimemove1.png
+x 144
+y 85
+w 30
+h 30
+
+frame22
+image data/slimemove1.png
+x 178
+y 85
+w 30
+h 30
+
+frame23
+image data/slimemove1.png
+x 210
+y 85
+w 30
+h 30
+
+frame24
+image data/slimemove1.png
+x 240
+y 85
+w 30
+h 30
+
+frame25
+image data/slimemove1.png
+x 272
+y 85
+w 30
+h 30
+
+frame26
+image data/slimemove1.png
+x 302
+y 85
+w 30
+h 30
+
+frame27
+image data/slimemove1.png
+x 334
+y 85
+w 30
+h 30
+
+npc1
+image data/slimemove1.png
+x 9
+y 122
+w 45
+h 45
+
+npc2
+image data/slimemove1.png
+x 57
+y 122
+w 45
+h 45
+
+npc3
+image data/slimemove1.png
+x 104
+y 122
+w 45
+h 45
+
+npc4
+image data/slimemove1.png
+x 152
+y 122
+w 45
+h 45
+
+npc5
+image data/slimemove1.png
+x 200
+y 122
+w 45
+h 45
+
+npc6
+image data/slimemove1.png
+x 248
+y 122
+w 45
+h 45
+
+npc7
+image data/slimemove1.png
+x 296
+y 122
+w 45
+h 45
+
+npc8
+image data/slimemove1.png
+x 345
+y 122
+w 45
+h 45
+
+mons1
+image data/slimemove1.png
+x 10
+y 175
+w 60
+h 60
+
+mons2
+image data/slimemove1.png
+x 96
+y 175
+w 60
+h 60
+
+mons3
+image data/slimemove1.png
+x 181
+y 175
+w 60
+h 60
+
+mons4
+image data/slimemove1.png
+x 268
+y 175
+w 60
+h 60
+
+mons5
+image data/slimemove1.png
+x 355
+y 175
+w 60
+h 60
+
+mons6
+image data/slimemove1.png
+x 440
+y 175
+w 60
+h 60
+
+mons7
+image data/slimemove1.png
+x 528
+y 175
+w 60
+h 60
+
+mons8
+image data/slimemove1.png
+x 614
+y 175
+w 60
+h 60
+
+monsdie1
+image data/slimemove1.png
+x 8
+y 238
+w 70
+h 70
+
+monsdie2
+image data/slimemove1.png
+x 92
+y 238
+w 70
+h 70
+
+monsdie3
+image data/slimemove1.png
+x 178
+y 238
+w 70
+h 70
+
+monsdie4
+image data/slimemove1.png
+x 258
+y 238
+w 70
+h 70
+
+monsdie5
+image data/slimemove1.png
+x 354
+y 238
+w 70
+h 70
+
+monsdie6
+image data/slimemove1.png
+x 444
+y 238
+w 70
+h 70
+
+monsdie7
+image data/slimemove1.png
+x 525
+y 238
+w 70
+h 70
+
+monsdie8
+image data/slimemove1.png
+x 600
+y 238
+w 70
+h 70
+
+monsdie9
+image data/slimemove1.png
+x 686
+y 238
+w 70
+h 70
+
+monsdie10
+image data/slimemove1.png
+x 777
+y 238
+w 70
+h 70
+
+monsdie11
+image data/slimemove1.png
+x 860
+y 238
+w 70
+h 70
+
+boss1
+image data/slimemove1.png
+x 10
+y 350
+w 60
+h 60
+
+boss2
+image data/slimemove1.png
+x 103
+y 350
+w 60
+h 60
+
+boss3
+image data/slimemove1.png
+x 198
+y 350
+w 60
+h 60
+
+boss4
+image data/slimemove1.png
+x 291
+y 350
+w 60
+h 60
+
+boss5
+image data/slimemove1.png
+x 386
+y 350
+w 60
+h 60
+
+boss6
+image data/slimemove1.png
+x 479
+y 350
+w 60
+h 60
+
+boss7
+image data/slimemove1.png
+x 573
+y 350
+w 60
+h 60
+
+boss8
+image data/slimemove1.png
+x 668
+y 350
+w 60
+h 60
+
+bossdie1
+image data/slimemove1.png
+x 10
+y 429
+w 70
+h 70
+
+bossdie2
+image data/slimemove1.png
+x 103
+y 429
+w 70
+h 70
+
+bossdie3
+image data/slimemove1.png
+x 190
+y 429
+w 70
+h 70
+
+bossdie4
+image data/slimemove1.png
+x 280
+y 429
+w 70
+h 70
+
+bossdie5
+image data/slimemove1.png
+x 388
+y 429
+w 70
+h 70
+
+bossdie6
+image data/slimemove1.png
+x 483
+y 429
+w 70
+h 70
+
+bossdie7
+image data/slimemove1.png
+x 567
+y 429
+w 70
+h 70
+
+bossdie8
+image data/slimemove1.png
+x 651
+y 429
+w 70
+h 70
+
+bossdie9
+image data/slimemove1.png
+x 747
+y 429
+w 70
+h 70
+
+bossdie10
+image data/slimemove1.png
+x 840
+y 429
+w 70
+h 70
+
+bossdie11
+image data/slimemove1.png
+x 936
+y 429
+w 70
+h 70
